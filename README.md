@@ -1,4 +1,4 @@
-# 🧮 Personal Budget Planner - Excel Dashboard
+# Personal Budget Planner - Excel Dashboard
 
 Welcome to the **Personal Monthly Budget Planner**, an Excel-based project designed to help individuals 
 track, manage, and analyze their monthly income and expenses in a visually engaging and insightful way. 
@@ -6,22 +6,22 @@ This dashboard was built using core Excel skills including formulas, pivot table
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To build a dynamic and user-friendly Excel dashboard that helps individuals track their monthly finances 
 and visualize income, expenses, savings, and bills through automated calculations and insightful charts.
 
 ---
 
-## 📊 Features of the Dashboard
+## Features of the Dashboard
 
-- 📌 **KPIs (Key Performance Indicators)**:
+- **KPIs (Key Performance Indicators)**:
   - Current Balance
   - Monthly Income
   - Monthly Expenses
   - Monthly Bills
 
-- 🧠 **Insights Provided**:
+- **Insights Provided**:
   - Budget vs Actual (Savings and Expenses)
   - Allocation Summary of Income
   - Top 3 Expense Categories
@@ -31,7 +31,7 @@ and visualize income, expenses, savings, and bills through automated calculation
   - Income Sources
   - Expense Trends (Actual vs Planned)
 
-- 📈 **Chart Types Used**:
+- **Chart Types Used**:
   - Donut Chart
   - Pie Chart
   - Bar Chart (Horizontal & Vertical)
@@ -40,7 +40,7 @@ and visualize income, expenses, savings, and bills through automated calculation
 
 ---
 
-## 🧾 How It Works
+## How It Works
 
 ### Sheet 1: `Transactions & Calculations`
 - Users enter transaction details manually.
@@ -60,7 +60,7 @@ and visualize income, expenses, savings, and bills through automated calculation
 
 ---
 
-## 🔧 Excel Skills Used
+## Excel Skills Used
 
 - Data Validation for category entries
 - IF, SUMIFS, and PERCENTAGE formulas
@@ -70,10 +70,10 @@ and visualize income, expenses, savings, and bills through automated calculation
 
 ---
 
-## 📌 Key Highlights
+## Why This Dashboard Stands Out
 
-- ✅ Fully dynamic – just input your transactions, and the dashboard updates automatically.
-- 🎨 Visually engaging – color-coded charts and summaries.
-- 🧩 Modular – easy to expand for multiple months or additional financial metrics.
+- Fully dynamic – update one sheet and everything else adjusts automatically.
+- Clean and colorful design – easy to follow even for non-technical users.
+- Scalable – can be extended to cover multiple months or additional financial metrics.
 
 ---
